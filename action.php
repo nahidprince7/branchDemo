@@ -7,4 +7,5 @@ if($_POST['name']=="1"){;
 }
 else{
     echo "Sleep only";
+    echo "Sleep like a tiger";
 }
